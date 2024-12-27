@@ -1,0 +1,3 @@
+This is a file that will be added to the repository from my local PC to the *main* branch. 
+
+But this is not ideal because if all of us change from the main branch, clashes may occur when we will be working and changing different things from the same files/folder later on. For that, we will have to work and add files on a different branch, and test whether the code is working without issues, or does not have the risk of overwriting someone else's work. Then we'll be able to *merge* the our branch with the main branch so that in the end the main branch will contain all our works and the correct and final codes.
